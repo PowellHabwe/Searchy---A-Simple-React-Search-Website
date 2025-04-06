@@ -1,0 +1,14 @@
+{
+    "items": [
+      {"id": 1, "name": "iPhone 13", "category": "Electronics", "description": "Latest iPhone model"},
+      {"id": 2, "name": "MacBook Pro", "category": "Electronics", "description": "Powerful laptop for professionals"},
+      {"id": 3, "name": "Headphones", "category": "Electronics", "description": "Noise cancelling headphones"},
+      {"id": 4, "name": "JavaScript Book", "category": "Books", "description": "Learn JavaScript programming"},
+      {"id": 5, "name": "React Cookbook", "category": "Books", "description": "Recipes for React developers"},
+      {"id": 6, "name": "Coffee Maker", "category": "Home", "description": "Automatic coffee brewing machine"},
+      {"id": 7, "name": "Running Shoes", "category": "Sports", "description": "Comfortable shoes for runners"},
+      {"id": 8, "name": "Yoga Mat", "category": "Sports", "description": "Non-slip exercise mat"},
+      {"id": 9, "name": "Blender", "category": "Kitchen", "description": "High-power kitchen blender"},
+      {"id": 10, "name": "Air Fryer", "category": "Kitchen", "description": "Oil-free cooking appliance"}
+    ]
+  }
