@@ -73,7 +73,7 @@ npm install
 ```
 
 ### Mock API Setup:
-Use my json items or you can place `items.json` in `src/data/` with a structure like:
+Use my json items or you can place `items.json` in the data folder within the public directory and make sure it has a structure like:
 
 ```json
 {
@@ -83,6 +83,8 @@ Use my json items or you can place `items.json` in `src/data/` with a structure 
   ]
 }
 ```
+
+or fetching the data wont happen
 
 ### Run the App:
 ```
