@@ -67,7 +67,7 @@ Description: Clicking the "Searchy" logo resets the app to its initial state.
 - Node.js and npm installed.
 
 ```
-git clone <repository-url>
+git clone https://github.com/PowellHabwe/Searchy---A-Simple-React-Search-Website.git
 cd searchy
 npm install
 ```
