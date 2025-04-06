@@ -68,7 +68,7 @@ Description: Clicking the "Searchy" logo resets the app to its initial state.
 
 ```
 git clone https://github.com/PowellHabwe/Searchy---A-Simple-React-Search-Website.git
-cd searchy
+cd Searchy---A-Simple-React-Search-Website
 npm install
 ```
 
@@ -93,6 +93,9 @@ npm start
 
 ### 🔍 Search
 Enter your query in the search bar or tap the voice icon (🎤) to search using speech. Results update automatically with a 500ms debounce to improve performance.
+
+### 🔍 Home
+When in search, click on the Searchy name to be redirected back home.
 
 ### 🎯 Filter
 Use the Filter Panel to select a category and narrow down your results instantly.
